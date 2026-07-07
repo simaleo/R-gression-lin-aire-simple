@@ -1,5 +1,5 @@
 # Regression lineaire simple
-La régression linéaire simple est une méthode statistique qui modélise la relation entre deux variables quantitatives : une variable explicative (X) et une variable à expliquer (Y).\n
+La régression linéaire simple est une méthode statistique qui modélise la relation entre deux variables quantitatives : une variable explicative (X) et une variable à expliquer (Y).
 Le modèle
 On cherche à ajuster une droite qui décrit au mieux le nuage de points :
 Y = β0 ​+ β1​X + ε 
