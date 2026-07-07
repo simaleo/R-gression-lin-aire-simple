@@ -1,1 +1,1 @@
-# R-gression-lin-aire-simple
+# Regression lineaire simple
